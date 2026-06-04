@@ -1,0 +1,10 @@
+# Ignore local database
+*.db
+*.sqlite3
+
+# Ignore environment/secret variables
+.env
+__pycache__/
+.pytest_cache/
+venv/
+.venv/
